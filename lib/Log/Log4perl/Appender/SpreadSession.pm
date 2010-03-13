@@ -88,7 +88,7 @@ Log::Log4perl::Appender::SpreadSession - Log to Spread
 
 =head1 DESCRIPTION
 
-This is am appender for publishing log messages to a spread group using L<Spread::Session>.
+This is a L<Log::Log4perl> appender for publishing log messages to a spread group using L<Spread::Session>.
 
 =head2 OPTIONS
 
